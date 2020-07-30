@@ -126,7 +126,7 @@ function App() {
                         InputContainer: {
                           style: ({ $theme }) => {
                             return {
-                              maxWidth: "80px",
+                              maxWidth: "100px",
                             };
                           },
                         },
